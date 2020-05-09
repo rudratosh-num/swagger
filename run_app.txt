@@ -1,0 +1,3 @@
+DEBUG=myapp:* npm run admin
+DEBUG=myapp:* npm run doctor
+DEBUG=myapp:* npm run client
