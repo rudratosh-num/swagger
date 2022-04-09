@@ -22,7 +22,7 @@
     "json-to-pretty-yaml": "^1.2.2",
     "jsonwebtoken": "^8.5.1",
     "memory-cache": "^0.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.5.6",
     "morgan": "~1.9.1",
     "nodemailer": "^6.4.6",
